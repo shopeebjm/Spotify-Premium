@@ -34,6 +34,12 @@ Unduh Aplikasi Termux Nya Dibawah Ini
 
 [![Android](https://img.shields.io/badge/Android-14-yellow.svg?style=flat)](https://developer.android.com/about/versions/14?hl=id)
 
+Unduh Script Spotify-Premium Dibawah Ini
+
+👇👇
+
+[![termux](https://img.shields.io/badge/Script-83%2B-yellow.svg?style=flat)](https://sfile.co/eZK8yBBtOiv)
+
 # Social Media
 
 <h2 align="center">
